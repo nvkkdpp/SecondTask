@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.exe
+C:\Users\Илья\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.deps.json
+C:\Users\Илья\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.json
+C:\Users\Илья\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.dll
+C:\Users\Илья\source\repos\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.pdb
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.dll
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.pdb
+C:\Users\Илья\source\repos\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.genruntimeconfig.cache
